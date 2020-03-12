@@ -1,6 +1,3 @@
-# https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
-
-# Complete the countingValleys function below.
 def countingValleys(n, s):
     # s is a string of Us and Ds 
     # keep track of the height 
