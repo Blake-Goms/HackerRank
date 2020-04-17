@@ -11,4 +11,4 @@ function birthdayCakeCandles(ar) {
     return count
 }
 const array = [4,3,2,1,4]
-birthdayCakeCandles(array)
+birthdayCakeCandles(array) 
