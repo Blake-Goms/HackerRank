@@ -13,6 +13,7 @@ def timeConversion(s):
         return s[:-2]
     # Otherwise just add 12 to hour position
     else:
+        print(str(int(s[:2]) + 12) + s[2:8])
         return str(int(s[:2]) + 12) + s[2:8]
     
     
